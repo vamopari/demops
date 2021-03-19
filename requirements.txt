@@ -9,7 +9,7 @@ django-extensions==2.2.5
 django-nose==1.4.6
 django-oauth-toolkit==1.2.0
 django-tenant-schemas==1.10.0
-djangorestframework==3.10.2
+djangorestframework==3.11.2
 djangorestframework-api-key==1.4.1
 drf-yasg==1.17.0
 idna==2.8
